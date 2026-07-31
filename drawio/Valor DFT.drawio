@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="GrPdeqh54i4_jnVKi4TZ">
-    <mxGraphModel dx="1814" dy="1297" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#000000,#121212)" math="0" shadow="0">
+    <mxGraphModel dx="1578" dy="1148" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#000000,#121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -160,7 +160,7 @@
             <mxPoint x="713" y="493.03" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="35j7qel0YqyB-mlR18NM-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#5AA9E6;" value="Step 6" vertex="1">
+        <mxCell id="35j7qel0YqyB-mlR18NM-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#5AA9E6;" value="Step 7" vertex="1">
           <mxGeometry height="30" width="60" x="846" y="320" as="geometry" />
         </mxCell>
         <mxCell id="35j7qel0YqyB-mlR18NM-32" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#FF6392;fontColor=default;" value="">
@@ -236,7 +236,7 @@
             <mxPoint x="1013" y="491.03" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G4BbUbOXkttR7n01gkTT-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#5AA9E6;" value="Step 7" vertex="1">
+        <mxCell id="G4BbUbOXkttR7n01gkTT-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#5AA9E6;" value="Step 8" vertex="1">
           <mxGeometry height="30" width="60" x="996" y="350" as="geometry" />
         </mxCell>
         <mxCell id="G4BbUbOXkttR7n01gkTT-7" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;strokeColor=#FF6392;labelBackgroundColor=none;fontColor=default;" value="">
@@ -284,7 +284,7 @@
             <mxPoint x="1281" y="491.03" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G4BbUbOXkttR7n01gkTT-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#5AA9E6;" value="Step 9" vertex="1">
+        <mxCell id="G4BbUbOXkttR7n01gkTT-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#5AA9E6;" value="Step 10" vertex="1">
           <mxGeometry height="30" width="60" x="1264" y="350" as="geometry" />
         </mxCell>
         <mxCell id="G4BbUbOXkttR7n01gkTT-15" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#FF6392;fontColor=default;" value="">
@@ -302,7 +302,7 @@
             <mxPoint x="1586" y="491.03" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G4BbUbOXkttR7n01gkTT-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#5AA9E6;" value="Step 11" vertex="1">
+        <mxCell id="G4BbUbOXkttR7n01gkTT-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#5AA9E6;" value="Step 12" vertex="1">
           <mxGeometry height="30" width="60" x="1569" y="350" as="geometry" />
         </mxCell>
         <mxCell id="G4BbUbOXkttR7n01gkTT-18" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#FF6392;fontColor=default;" value="">
@@ -353,13 +353,13 @@
             <mxPoint x="1743.55" y="179.1" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G4BbUbOXkttR7n01gkTT-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#5AA9E6;" value="Step 8" vertex="1">
+        <mxCell id="G4BbUbOXkttR7n01gkTT-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#5AA9E6;" value="Step 9" vertex="1">
           <mxGeometry height="30" width="60" x="1101" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="G4BbUbOXkttR7n01gkTT-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#5AA9E6;" value="Step 10" vertex="1">
+        <mxCell id="G4BbUbOXkttR7n01gkTT-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#5AA9E6;" value="Step 11" vertex="1">
           <mxGeometry height="30" width="60" x="1415" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="G4BbUbOXkttR7n01gkTT-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#5AA9E6;" value="Step 12" vertex="1">
+        <mxCell id="G4BbUbOXkttR7n01gkTT-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#5AA9E6;" value="Step 13" vertex="1">
           <mxGeometry height="30" width="60" x="1737" y="320" as="geometry" />
         </mxCell>
         <mxCell id="G4BbUbOXkttR7n01gkTT-30" connectable="0" parent="1" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;labelBackgroundColor=none;fontColor=#5AA9E6;rounded=0;" value="Eliminar atributos de test point&lt;br&gt;declarados por el cliente" vertex="1">
@@ -811,11 +811,11 @@
             <mxPoint x="784" y="-164" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qNNUD852bpHGDLKpakLU-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#080808;" value="&lt;span style=&quot;&quot;&gt;Script implementacion de step 4,5,6 y 7&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Process_takaya_VPP/&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;AUTO_TEST_POINT_VALIDATION.pl&lt;/div&gt;" vertex="1">
+        <mxCell id="qNNUD852bpHGDLKpakLU-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#080808;" value="&lt;span style=&quot;&quot;&gt;Script implementacion de step 4,5,6,7 y 8&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Process_takaya_VPP/&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;AUTO_TEST_POINT_VALIDATION.pl&lt;/div&gt;" vertex="1">
           <mxGeometry height="77" width="247" x="674" y="-245" as="geometry" />
         </mxCell>
-        <mxCell id="qNNUD852bpHGDLKpakLU-4" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.sequential_data;whiteSpace=wrap;fillColor=#FF33FF;strokeColor=#FFFF66;" value="" vertex="1">
-          <mxGeometry height="46" width="45" x="853.5" y="-139" as="geometry" />
+        <mxCell id="qNNUD852bpHGDLKpakLU-6" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.4_point_star_2;dx=0.8;gradientColor=none;fillColor=light-dark(#16d0a1, #ededed);" value="" vertex="1">
+          <mxGeometry height="64" width="56" x="846" y="-154" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
