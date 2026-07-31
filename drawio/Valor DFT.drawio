@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="GrPdeqh54i4_jnVKi4TZ">
-    <mxGraphModel dx="2975" dy="1405" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#000000,#121212)" math="0" shadow="0">
+    <mxGraphModel dx="928" dy="288" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#000000,#121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -787,8 +787,8 @@
             <mxPoint x="449" y="1962" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FZt9A1neLmWKzx1E7ST2-80" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#080808;" value="&lt;span style=&quot;&quot;&gt;Script agregado&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;In use/&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;remove_attribute_testpoint_to_pads.pl&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="237" x="414" y="2021" as="geometry" />
+        <mxCell id="FZt9A1neLmWKzx1E7ST2-80" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#080808;" value="&lt;span style=&quot;&quot;&gt;Script agregado&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Process_AOI&amp;amp;AXI/Panelizado.pl&lt;/div&gt;" vertex="1">
+          <mxGeometry height="51" width="216" x="414" y="2021" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
