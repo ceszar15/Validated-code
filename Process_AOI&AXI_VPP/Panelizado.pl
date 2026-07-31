@@ -1,5 +1,6 @@
 #!perl -w                                           # Define que es un script en Perl y activa las advertencias de sintaxis (-w)
 
+
 use strict;                                         # Exige la declaración explícita de variables (con 'my') para evitar errores de ámbito
 use warnings;                                       # Muestra alertas de ejecución en la consola de Perl
 
